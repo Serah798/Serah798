@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me - my email serahwaithera798@gmail.com
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: enjoy reading books
+- ⚡ Fun fact: enjoy programming and reading books
 
 <!---
 Serah798/Serah798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
